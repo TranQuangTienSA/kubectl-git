@@ -1,4 +1,6 @@
 # kubectl-git
+> Moved to [https://github.com/nentangso/docker](https://github.com/nentangso/docker)
+
 Docker image: bitnami/kubectl include git
 
 Docker Hub [https://hub.docker.com/r/sohoa/kubectl-git](https://hub.docker.com/r/sohoa/kubectl-git)
